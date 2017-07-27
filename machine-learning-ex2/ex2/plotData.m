@@ -13,7 +13,7 @@ figure; hold on;
 %
 
 
-
+plot(X, y, 'rx', 'MarkerSize', 10);
 
 
 
